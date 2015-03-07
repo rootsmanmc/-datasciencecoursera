@@ -1,3 +1,3 @@
-## Data Sources
-*Surveys
-*Census
+﻿## Data Sources
+Surveys
+Census
